@@ -54,3 +54,4 @@ begin
   Until
    Xit;
 end.
+// Cehák je gáj
